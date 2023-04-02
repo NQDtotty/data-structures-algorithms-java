@@ -18,6 +18,9 @@
 * List of invoice by using Queue
 ![List of invoice by using Queue](https://github.com/NQDtotty/data-structures-algorithms-java/blob/main/screenshot/stack-queue-output.png)
 
+* Display folder tree by recursive
+![Display folder tree by recursive](https://github.com/NQDtotty/data-structures-algorithms-java/blob/main/screenshot/display-folder-tree-recursive.png)
+
 * Source code of sorting algorithms
 ![Source code of sorting algorithms](https://github.com/NQDtotty/data-structures-algorithms-java/blob/main/screenshot/sort-output.png)
 
